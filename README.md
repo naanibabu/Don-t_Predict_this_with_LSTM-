@@ -90,4 +90,4 @@ This project demonstrates the limitations of using LSTM (Long Short-Term Memory)
 
 ## Disclaimer
 
-This project is for educational purposes only and does **not** constitute financial advice or a
+This project is for educational purposes only and does **not** constitute financial advice or  trading recomandation.
